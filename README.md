@@ -83,7 +83,7 @@ Y nos llega nuestra correspondiente notificación (ESTA NOTIFICACIÓN LLEGA SIEM
 
 Ahora vamos a enviar un paquete a alguien que no está registrado
 
-![image](https://github.com/DanielRosaIzquierdo/FernanPaaq_PO5/assets/150911084/d0e4fc1f-a15b-4b4e-8fd1-fe0cdc30636b)
+![image](https://github.com/DanielRosaIzquierdo/FernanPaaq_PO5/assets/150911084/294202c8-622e-4c70-b98f-074f71607236)
 
 
  
