@@ -5,7 +5,6 @@
 - Requisitos mínimos
 - Ejecución del programa
 - Manual de usuario
-- Nuevas funcionalidades
 - Colaboradores
 
 ## DESCARGA
